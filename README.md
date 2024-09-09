@@ -1,4 +1,4 @@
-# HBN
+# RC
 The implementation of HBN.
 # Introduction
 This is an open source object detection toolbox based on PyTorch and MMDetection, MMYOLO.
