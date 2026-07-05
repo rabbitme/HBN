@@ -1,5 +1,5 @@
-# HBN
-The implementation of HBN.
+# Renormalized Connections
+The implementation of RC (Renormalized Connection for Scale-Preferred Object Detection in Satellite Imagery). Paper: https://ieeexplore.ieee.org/document/10630868 or https://arxiv.org/pdf/2409.05624
 # Introduction
 This is an open source object detection toolbox based on PyTorch and MMDetection, MMYOLO.
 
